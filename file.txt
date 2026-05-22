@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi hello, i am good
-=======
-hi hello, i am here
->>>>>>> feature-branch
+hi, I am good
