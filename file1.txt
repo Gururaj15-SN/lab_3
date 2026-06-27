@@ -1,3 +1,7 @@
 Hello welcome to git, I am good, how are you?
+<<<<<<< HEAD
 is all right, good and better, everything fine
+=======
+
+>>>>>>> feature-branch
 
