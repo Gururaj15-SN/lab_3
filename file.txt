@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+hi, I am good
+=======
 hi hello, i am good
+>>>>>>> feature-branch
